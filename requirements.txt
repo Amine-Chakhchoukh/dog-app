@@ -1,4 +1,4 @@
-https://files.pythonhosted.org/packages/3f/d1/0408281f461e172b12e917937288236cdc60fa8210f650f7b9866fe1cc12/torch-1.9.1-cp39-cp39-manylinux1_x86_64.whl
+https://files.pythonhosted.org/packages/51/42/7abe778c62c5d08b5e4f3c526524c6d0349a8b3282f56bc65b74485e1828/torch-1.9.1-cp39-cp39-win_amd64.whl
 https://download.pytorch.org/whl/cpu/torchvision-0.7.0%2Bcpu-cp36-cp36m-linux_x86_64.whl
 fastai==2.0.11
 voila
