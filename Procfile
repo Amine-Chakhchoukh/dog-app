@@ -1,2 +1,2 @@
-worker: voila --port=$PORT --no-browser --enable_nbextensions=True yournotebook.ipynb
+web: voila --port=$PORT --no-browser --enable_nbextensions=True yournotebook.ipynb
 
