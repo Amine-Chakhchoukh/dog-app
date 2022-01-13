@@ -2,8 +2,8 @@ name: dog-app
 channels:
   - conda-forge
 dependencies:
-  - torch-cpu 
+  - pytorch-cpu 
   - torchvision-cpu
-  - fastai==2.0.11
+  - fastai
   - voila
   - ipywidgets
